@@ -7,14 +7,14 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "remote-desktop",
+    "productName": "Dek",
     "version": "0.1.0"
   },
   "tauri": {
     "allowlist": {
       "all": true,
       "http": {
-        "scope": ["http://127.0.0.1:6503/*"]
+        "scope": ["http://127.0.0.1:7856/*"]
       }
     },
     "bundle": {
@@ -61,7 +61,7 @@
         "fullscreen": false,
         "height": 500,
         "resizable": false,
-        "title": "remote-desktop",
+        "title": "Dek",
         "width": 700,
         "center": true
       }
