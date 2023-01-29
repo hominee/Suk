@@ -1,8 +1,8 @@
 ## Intro
 
-Dek is a remote desktop control kit based on WebRTC and Tauri.
+Suk is a remote desktop control kit based on WebRTC and Tauri.
 
-Dek consist of two parts of `desktop client` and `remote server`.
+Suk consist of two parts of `desktop client` and `remote server`.
 
 The `Client` is installed locally, and responsible for connection establishment, local event collecting and transmission, remote event receiving and performing. 
 
@@ -16,6 +16,6 @@ The `Sever` built with rust [actix](https://actix.rs), can be installed remotely
 
 ## Known Issues 
 
-- Due to some limitation of current development(2023-01), WebRTC is not supported on web2gtk based on which Tauri is built, Dek cannot works in Linux.
+- Due to some limitation of current development(2023-01), WebRTC is not supported on webkit2gtk based on which Tauri is built, Dek cannot works in Linux.
 
 
