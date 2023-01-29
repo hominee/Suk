@@ -16,6 +16,6 @@ The `Sever` built with rust [actix](https://actix.rs), can be installed remotely
 
 ## Known Issues 
 
-- Due to some limitation of current development(2023-01), WebRTC is not supported on webkit2gtk based on which Tauri is built, Dek cannot works in Linux.
+- Due to some limitation of current development(2023-01), WebRTC is not supported on webkit2gtk based on which Tauri is built, Suk cannot works in Linux.
 
 
