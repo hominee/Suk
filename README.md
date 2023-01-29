@@ -10,7 +10,7 @@ The `Sever` built with rust [actix](https://actix.rs), can be installed remotely
 `<IP-Address>:7856` where the port is 7856 for the client to access.
 
 ## ScreenShots
-![dek](./client/screenshots/dek.png)
+![suk](./client/screenshots/suk.png)
 
 ![desktop](./client/screenshots/desktop.png)
 

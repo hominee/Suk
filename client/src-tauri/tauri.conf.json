@@ -7,7 +7,7 @@
     "distDir": "../dist"
   },
   "package": {
-    "productName": "Dek",
+    "productName": "Suk",
     "version": "0.1.0"
   },
   "tauri": {
@@ -61,7 +61,7 @@
         "fullscreen": false,
         "height": 500,
         "resizable": false,
-        "title": "Dek",
+        "title": "Suk",
         "width": 700,
         "center": true
       }
